@@ -1,0 +1,16 @@
+{
+    "prefix": "!",
+    "guild": YOUR_GUILD_ID,
+    "token": "YOUR_BOT_TOKEN",
+    "description": "YOUR_BOT_DESCRIPTION",
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=921510176132042752&permissions=8&scope=bot%20applications.commands",
+    "credits": "M|ok~on*L*R*\u03a8*b*`*Q*:*\u0422-:::;*p|yw*rokno8qk",
+    "reply": "Thank you for your message! Our team will reply to you as soon as possible \u2764\ufe0f",
+    "roles": [
+        ADMINISTRATOR_ROLE_ID,
+        MODERATOR_ROLE_ID,
+        ANOTHER_ROLE_THAT_CAN_ACCESS_MODMAIL_TICKETS_ID
+    ],
+    "category": TICKET_CATEGORY_ID,
+    "tickets": 1
+}
